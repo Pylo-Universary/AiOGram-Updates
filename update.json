@@ -1,5 +1,6 @@
 {
-  "version": "1.5.0",
-  "url": "https://github.com/Pylo-Universary/AiOGram-Updates/releases/download/v1.5.0/AiOGram.exe"
-  "changelog": "Versión 1.5.0: Nombre de usuario persistente y mejoras en el formato de mensajes con imágenes."
+  'version': '1.5.0',
+  'url': 'https://github.com/Pylo-Universary/AiOGram-Updates/releases/download/v1.5.0/AiOGram.exe'
+  'changelog': "Versión 1.5.0: Nombre de usuario persistente y mejoras en el formato de mensajes con imágenes.'
 }
+
